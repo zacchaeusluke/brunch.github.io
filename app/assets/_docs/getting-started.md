@@ -98,8 +98,8 @@ output exactly what you've entered here. jQuery is up and running now.
 
 ## Plugging alternative tableware
 
-Let's say you want to try the new fancy **ECMAScript 201X** thing. Maybe your OCD would be eased by conforming
-to 66 **ESLint** rules. It doesn't matter, [more than 50 Brunch plugins](http://brunch.io/plugins) aim to help with all kinds of crazy cases.
+Let's say you want to try the new fancy **ECMAScript 201X** thing. Maybe you'd really like to conform
+to 66 **ESLint** rules. It doesn't matter, [more than 50 Brunch plugins](http://brunch.io/plugins) aim to help with all kinds of bizarre cases.
 
 Install Babel plugin by executing `npm install --save-dev babel-brunch`.
 Hmm...that's exactly the same command from our previous step. Whatever. Let's create the `index.js` file with some content:
